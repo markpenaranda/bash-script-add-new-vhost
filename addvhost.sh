@@ -1,5 +1,4 @@
 #!/bin/bash
-sudo -S
 clear
 
 echo "Add New Virtual Host beta"
